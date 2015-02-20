@@ -1,0 +1,9 @@
+0.1.0.0:
+- First iteration
+
+0.1.1:
+- Added debug mode (accessed using /debug trigger).
+- Minor Bugfixes
+
+0.1.2:
+- Made compatible with .NET 4.0.
